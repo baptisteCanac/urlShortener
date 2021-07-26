@@ -7,4 +7,4 @@ def tiny_url(url):
     return tinyurl.decode("utf-8")
 
 url = input("Enter your url to shorten : ")
-print(tiny_url(url))
+print("Voici votre nouvel url : ", tiny_url(url))
