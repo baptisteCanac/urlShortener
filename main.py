@@ -1,4 +1,4 @@
-# baptisteCanac
+# https://github.com/baptisteCanac/urlShortener/
 import urllib.request
 
 def tiny_url(url):
